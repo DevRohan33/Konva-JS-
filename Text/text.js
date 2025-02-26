@@ -30,5 +30,4 @@ const textTwo = new Konva.Text({
       });
 
       layer.add(textOne);
-      
       layer.add(textTwo);
